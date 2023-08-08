@@ -92,3 +92,5 @@ files and directories in the projects directory. The first step in this was usin
 check the permissions for the directory. This informed my decisions in the following steps. I
 then used the chmod command multiple times to change the permissions on files and
 directories.
+
+Reference: Lab used for this demo is from Google Cyber Security Lab
